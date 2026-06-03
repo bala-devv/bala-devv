@@ -1,4 +1,4 @@
-# Hi, I'm Bala Bhargav 👋
+# Hi, I'm Bala 👋
 
 ## About Me
 - Engineering Student
