@@ -4,7 +4,7 @@
 - Engineering Student
 - Learning Python and AI
 - Interested in Automation and Machine Learning
-- Building projects every week
+- Building projects and documenting my learning journey
 
 ## Currently Learning
 - Python Fundamentals
